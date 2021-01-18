@@ -1,3 +1,9 @@
+/* Yuma userbg */
+[user_by_bdfdb*="178525733600100352"],
+[data-user-id*="178525733600100352"] {
+        --user-background: url('https://i.imgur.com/JFlZVob.gif');
+}
+
 /* Athessa userbg */
 
 [user_by_bdfdb*="441293831716208650"],
@@ -24,5 +30,11 @@
 [user_by_bdfdb*="295297457175134209"],
 [data-user-id*="295297457175134209"] {
     --user-background: url('https://cdn.discordapp.com/attachments/744278985588080650/800705181817765928/tenor.gif');
+}
+
+/* Svet userbg */
+[user_by_bdfdb*="472152073715187712"],
+[data-user-id*="472152073715187712"] {
+        --user-background: url('https://i.pinimg.com/originals/1c/d4/8d/1cd48d7597ee75519ceffcff48f50f13.gif');
 }
 
