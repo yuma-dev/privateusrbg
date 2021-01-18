@@ -1,0 +1,20 @@
+/* Athessa userbg */
+
+[user_by_bdfdb*="441293831716208650"],
+[data-user-id*="441293831716208650"] {
+    --user-background: url('https://i.imgur.com/YD6p3kb.gif');
+}
+
+/* Micha userbg */
+
+[user_by_bdfdb*="399976233414426644"],
+[data-user-id*="399976233414426644"] {
+    --user-background: url('https://i.imgur.com/gkurbv5.gif');
+}
+
+/* Ngbot userbg */
+
+[user_by_bdfdb*="784215168561184788"],
+[data-user-id*="784215168561184788"] {
+    --user-background: url('https://media.tenor.com/images/a4eb5c3350b4e16cf770462983e7f136/tenor.gif');
+}
