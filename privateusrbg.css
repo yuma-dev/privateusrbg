@@ -1,4 +1,5 @@
 /* Yuma userbg */
+
 [user_by_bdfdb*="178525733600100352"],
 [data-user-id*="178525733600100352"] {
         --user-background: url('https://i.imgur.com/JFlZVob.gif');
@@ -33,8 +34,14 @@
 }
 
 /* Svet userbg */
+
 [user_by_bdfdb*="472152073715187712"],
 [data-user-id*="472152073715187712"] {
         --user-background: url('https://cdn.discordapp.com/attachments/496045745367941142/800890569651912714/29966b7ed9241b8993e7be0986df71ca.gif');
 }
 
+/* Tumba userbg */
+[user_by_bdfdb*="490466967002546208"],
+[data-user-id*="490466967002546208"] {
+        --user-background: url('https://media.giphy.com/media/3oFzm7izbtKqWNotck/giphy.gif');
+}
