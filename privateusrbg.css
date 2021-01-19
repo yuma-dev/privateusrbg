@@ -41,7 +41,23 @@
 }
 
 /* Tumba userbg */
+
 [user_by_bdfdb*="490466967002546208"],
 [data-user-id*="490466967002546208"] {
         --user-background: url('https://media.giphy.com/media/3oFzm7izbtKqWNotck/giphy.gif');
+}
+
+/* Maxi userbg */
+
+[user_by_bdfdb*="579024599824728065"],
+[data-user-id*="579024599824728065"] {
+        --user-background: url('https://media1.tenor.com/images/4d71ad2ffad462fdb62a45391bb34f81/tenor.gif');
+}
+
+
+/* Template userbg */
+
+[user_by_bdfdb*=""],
+[data-user-id*=""] {
+        --user-background: url('');
 }
