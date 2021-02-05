@@ -54,6 +54,12 @@
         --user-background: url('https://media1.tenor.com/images/4d71ad2ffad462fdb62a45391bb34f81/tenor.gif');
 }
 
+/* Paul userbg */
+
+[user_by_bdfdb*="534792318570594324"],
+[data-user-id*="534792318570594324"] {
+        --user-background: url('https://mmotion.tv/wp-content/uploads/2019/03/thumb-1-e1552777081268.jpg');
+}
 
 /* Template userbg */
 
