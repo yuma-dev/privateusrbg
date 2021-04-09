@@ -67,3 +67,15 @@
 [data-user-id*=""] {
         --user-background: url('');
 }
+
+/* Dev Tag */
+
+.avatar-1BDn8e[src*="178525733600100352"]:hover + h2::before {
+  color: var(--main-color);
+  background-image: url(https://i.imgur.com/Zdojm22.gif);
+  --main-color: #ffff;
+  text-shadow: -2px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  border-radius: 20px;
+  content: " Dev ";
+}
+
